@@ -117,6 +117,7 @@ Le but du jeu est de deviner la combinaison de couleurs secrète du codificateur
         <strong>Travail en binôme</strong><br/>
         <strong>Outil : </strong><br/>
         Java<br/>
+        <strong><a href="https://github.com/GuaGuami/JAVA_Mastermind">Afficher le projet</a></strong><BR>
         </li>
   </li>
   <!--######################### PROJET #########################-->
