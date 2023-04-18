@@ -30,6 +30,7 @@
       <li>
         <strong>Projet de base de donnée</strong><br/>
         Conception et de manipulation d'une base de données sur SQL server et sur Oracle. <br/>
+        <strong>Travail en binôme</strong><br/>
         <strong>Mission : <br/></strong>
         - Langage de définition de données<br/>
         - Langage de Contrôle de Données <br/>
@@ -59,6 +60,7 @@
       <li>
         <strong>Projet de conception des SI - 'MIDIPRESSE'</strong><br/>
         Modélisation conceptuelle du système d'information d'un éditeur de presse MIDIPRESSE. <br/>
+        <strong>Travail en équipe</strong><br/>
         <strong>Mission : <br/></strong>
         - Analyser les besoins<br/>
         - Améliorer les systèmes d'information <br/>
@@ -69,7 +71,21 @@
   </li>
     
   <li>
-    <H4>LICENSE - Méthodes informatiques appliquées à la gestion à l’entreprise</H4>
+    <H3>LICENSE - Méthodes informatiques appliquées à la gestion à l’entreprise</H3>
+    <ul>
+      <li>
+        <strong>Projet de site-web- 'Numeric'</strong><br/>
+        Numeric un site de données, qui présente des statistiques et des analyses de données. <br/>
+        <strong>Travail en binôme</strong><br/>
+        <strong>Mission : <br/></strong>
+        - Créer un site web<br/>
+        - Insérer les données analysées dans la page web <br/>
+        - Insérer les graphiques de données dynamiques<br/>
+        <strong>Outil : </strong><br/>
+        HTML, CSS, JavaScript, Bootstrap, EXCEL<br/>
+        <strong><a href="https://guaguami.github.io/L3_site-web_projet.github.io/accueil.html">Afficher le projet (Site-Web statique)</a></strong><BR>
+        </li>
+    </ul>
 
   </li>
 
