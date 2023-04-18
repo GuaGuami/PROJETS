@@ -48,7 +48,7 @@
     <ul>
       <li>
         <strong>Projet de Business Intelligence(BI) - 'Lagardère Active'</strong><br/>
-        ??? <br/>
+        Aider la société Lagardère Active à développer des applications décisionnelles. <br/>
         <strong>Mission : <br/></strong>
         - Analyser les besoins<br/>
         - Conception globale <br/>
