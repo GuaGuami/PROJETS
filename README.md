@@ -3,7 +3,9 @@
 <H2>Associé à Université Toulouse 1 Capitole </H2>
 <ul>
   <li>
+    <!--************************* MASTER *******************************-->
     <H3>MASTER - Méthodes informatiques appliquées à la gestion à l’entreprise</H3>
+    <!--######################### PROJET #########################-->
     <ul>
       <li>
         <strong>Projet intégratif</strong><br/>
@@ -26,6 +28,7 @@
       </li>
     </ul>
     <br>
+    <!--######################### PROJET #########################-->
     <ul>
       <li>
         <strong>Projet de base de donnée</strong><br/>
@@ -41,6 +44,7 @@
         </li>
     </ul>
     <br>
+    <!--######################### PROJET #########################-->
     <ul>
       <li>
         <strong>Projet de Business Intelligence(BI) - 'Lagardère Active'</strong><br/>
@@ -56,6 +60,7 @@
         </li>
     </ul>
     <br>
+    <!--######################### PROJET #########################-->
     <ul>
       <li>
         <strong>Projet de conception des SI - 'MIDIPRESSE'</strong><br/>
@@ -67,11 +72,15 @@
         - Conception et modélisation SI<br/>
         </li>
     </ul>
-  
+    <br>
+  <!--######################### PROJET #########################-->
   </li>
-    
+  <!--************************* MASTER *******************************-->
+  <!--****************************************************************-->
+  <!--************************* LICENCE *******************************-->
   <li>
     <H3>LICENSE - Méthodes informatiques appliquées à la gestion à l’entreprise</H3>
+    <!--######################### PROJET #########################-->
     <ul>
       <li>
         <strong>Projet de site-web- 'Numeric'</strong><br/>
@@ -86,8 +95,30 @@
         <strong><a href="https://guaguami.github.io/L3_site-web_projet.github.io/accueil.html">Afficher le projet (Site-Web statique)</a></strong><BR>
         </li>
     </ul>
-
+    <br>
+    <!--######################### PROJET #########################-->
+    <ul>
+      <li>
+        <strong>Projet JAVA - 'Labyrinthe'</strong><br/>
+        Il s'agit d'un jeu de labyrinthe pour les aventuriers. Le but du joueur est de rester en vie et de sortir du labyrinthe. En chemin, le joueur rencontre diverses difficultés et opportunités, telles que différents types de terrain (désert, mer, prairie, portails), divers accessoires (bateaux, antidotes, clés) et diverses NPC (sorcières, voleurs). Au cours de l'aventure, le joueur doit utiliser les accessoires pour faire face aux différentes difficultés et finalement sortir du labyrinthe.<br/>
+        <strong>Travail en binôme</strong><br/>
+        <strong>Outil : </strong><br/>
+        Java<br/>
+        </li>
+    </ul>
+    <br>
+    <!--######################### PROJET #########################-->
+    <ul>
+      <li>
+        <strong>Projet JAVA - 'Mastermind'</strong><br/>
+        Il s'agit d'un jeu de société pour deux joueurs, généralement composé d'une plateforme perforée et des pions de 6 à 8 couleurs. <br/>
+Le but du jeu est de deviner la combinaison de couleurs secrète du codificateur. Le décodeur, quant à lui, va placer ses pions et regarder en fonction, la position de ses pions bien et mal placés indiquée par le codificateur.  <br/>
+        <strong>Travail en binôme</strong><br/>
+        <strong>Outil : </strong><br/>
+        Java<br/>
+        </li>
   </li>
-
+  <!--######################### PROJET #########################-->
+  <!--************************* LICENCE *******************************-->
 </ul>
-Nous sommes une équipe entièrement constituée de 5 étudiants de l'Université de Toulouse 1 Capitole.<BR>
+
