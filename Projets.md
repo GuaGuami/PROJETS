@@ -104,6 +104,7 @@
         <strong>Travail en binôme</strong><br/>
         <strong>Outil : </strong><br/>
         Java<br/>
+        <strong><a href="https://github.com/GuaGuami/ProjetLabyrinthe">Afficher le projet</a></strong><BR>
         </li>
     </ul>
     <br>
